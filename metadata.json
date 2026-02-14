@@ -1,0 +1,5 @@
+{
+  "name": "WIPL Store Master",
+  "description": "An enterprise-grade store inventory request and approval system for WIPL, featuring role-based access control and AI-powered insights.",
+  "requestFramePermissions": []
+}
